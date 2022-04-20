@@ -26,7 +26,7 @@ Step 1: Prerequisites
 3. Create a NEAR test account \ [https://wallet.testnet.near.org/]()
 4. Install NEAR CLI globally: \ [near-cli]() is a command line interface (CLI) to interact with NEAR blockchain
 
-	yarn install --global near-cli
+	yarn global add near-cli
 
 Step 2: NEAR CLI Configuration
 ---- 
